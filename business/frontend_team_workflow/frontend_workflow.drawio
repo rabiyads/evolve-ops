@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
+  <diagram name="Page-1" id="L9nTWto5V3bLmjIxIUyd">
+    <mxGraphModel dx="1656" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-1" value="1. Product Requirements &amp; Research" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2B6CB0;fillColor=#DCEFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-2" value="2. Information Architecture (IA)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2B6CB0;fillColor=#DCEFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-3" value="3. Low-Fidelity Wireframes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2B6CB0;fillColor=#DCEFFF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-4" value="4. High-Fidelity UI Design" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2B6CB0;fillColor=#DCEFFF;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-5" value="5. Component Library / Design System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2B6CB0;fillColor=#DCEFFF;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-6" value="6. Prototyping &amp; User Testing" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2B6CB0;fillColor=#DCEFFF;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-7" value="7. Developer Handoff" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2B6CB0;fillColor=#DCEFFF;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="mYhQiYucvnvJVPS_wB-G-1" target="mYhQiYucvnvJVPS_wB-G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="mYhQiYucvnvJVPS_wB-G-2" target="mYhQiYucvnvJVPS_wB-G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="mYhQiYucvnvJVPS_wB-G-3" target="mYhQiYucvnvJVPS_wB-G-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="mYhQiYucvnvJVPS_wB-G-4" target="mYhQiYucvnvJVPS_wB-G-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="mYhQiYucvnvJVPS_wB-G-5" target="mYhQiYucvnvJVPS_wB-G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="mYhQiYucvnvJVPS_wB-G-6" target="mYhQiYucvnvJVPS_wB-G-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-14" value="FigJam discovery board • Personas • Journey map" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-15" value="User flows • Sitemap" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-16" value="Grey-box wireframes • Auto-layout" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-17" value="Typography • Colors • Components" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-18" value="Tokens • Variants • Styles" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-19" value="Clickable prototype • Test reports" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-20" value="Dev Mode • Exports • Interaction specs" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-23" value="Design Handoff (Figma)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-24" value="Frontend Architecture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="710" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-25" value="Component Development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="910" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-26" value="API Integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-27" value="Responsive QA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-28" value="UAT &amp; Fixes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQiYucvnvJVPS_wB-G-29" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
